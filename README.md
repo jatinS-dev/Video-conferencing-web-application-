@@ -1,5 +1,4 @@
-# Node JS Zoom Clone
-
+# Node JS Zoom Clone 💻 💡 🚀
 ## About
 Real Time Video Conferencing Web App build by using technologies such as NodeJs, WebRTC, EJS, etc.
 
