@@ -1,16 +1,13 @@
-# Video Chat Web Based Application :books: :bulb:
+# Node JS Zoom Clone
+
+Credit to [Web Dev Simplified](https://www.youtube.com/watch?v=DvlyzDZDEq4)
+
+### Want to join the BEST JavaScript Course on the planet and learn how to build the projects like Zoom Clone with JavaScript, NodeJS, and MongoDB?
+
+Check out our `Profit With JavaScript Course`    :point_down: 
+
+[Click Here](https://cleverprogrammer.unstacksite.com/pwj?utm_source=github&utm_medium=repo&utm_content=5-aug-live-zoom-clone-youssef-naz&utm_campaign=live-everyday&utm_term=warm)
+
+Made with :heart: by [Naz](https://www.instagram.com/nazdumanskyy/) & [Youssef](https://www.instagram.com/youcef.dev/)
 
 
-## Plan of action for Video Chat App
-
-- Initialize our NodeJs Project <DONE>
-- Initialize our first view
-- Create a room ID
-- Add ability to view our own video
-- Add styling
-- Add Ability to create Messages
-- Add mute button
-- Add Stop Video Button
-
-## About
-Real Time Video Conferencing Web App build by using technologies such as NodeJs, WebRTC, EJS, etc.
