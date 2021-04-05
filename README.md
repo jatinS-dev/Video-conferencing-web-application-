@@ -18,9 +18,7 @@ Real Time Video Conferencing Web App build by using technologies such as NodeJs,
 ### Step I
 
 Clone the repository in your System.
-You can Simply Copy the following link
 
-[HTTPS Link: ](https://github.com/jatinS-dev/ZOOM-CLONE.git)
 
 ### Step II
 
